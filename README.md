@@ -1,5 +1,15 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# Project description
+This is my fist Project on react native. It is a simple app that genererates a password string of a given length.
+It has option to choose to include uppercase, number and symbols.
+Then it will generate password base on your selection.
+
+I have used these pakages : 
+1. Yup (validation)
+2. Formik (Form control)
+3. Bouncy Check Boxes (good looking checkboxes)
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
